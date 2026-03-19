@@ -1,6 +1,11 @@
+<a href="https://apps.apple.com/us/app/color-pool-puzzle/id6760399649">    
+     <img   target="_blank" width="200" alt="app: Color Pool Puzzle" src="https://github.com/user-attachments/assets/09630f8d-94c7-46f7-a243-546f0c67532c" />
+  </a>
+ 
 <a href="https://apps.rustore.ru/app/ru.ziidik.qlutter">
      <img alt="app: qlutter" src="https://github.com/vachtung-gigabidze/vachtung-gigabidze/blob/main/ruStore.png" target="_blank" width="200" /> 
   </a>
+  
 <a href="https://qlutter.ziidik.ru">
 <!--     ![qlutter](https://github.com/user-attachments/assets/c3235302-7520-44bf-bc23-a58317b5a0eb) -->
     <img alt="app: qlutter" src="https://github.com/user-attachments/assets/c3235302-7520-44bf-bc23-a58317b5a0eb" target="_blank" width="75"/>
