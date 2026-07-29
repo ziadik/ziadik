@@ -28,11 +28,7 @@
 </a>
 
 [![](https://www.codewars.com/users/dmitryzyadik/badges/large)](https://www.codewars.com/users/dmitryzyadik)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vachtung-gigabidze&theme=prussian)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vachtung-gigabidze&theme=prussian)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vachtung-gigabidze&theme=prussian)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vachtung-gigabidze&theme=prussian)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vachtung-gigabidze&theme=prussian&utcOffset=5)
+
 
 
 <!--
