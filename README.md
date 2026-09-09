@@ -22,7 +22,7 @@
 
 </a>
 <a href="https://ziadik.github.io/flutter_grits/">
-   <img width="75" alt="image" src="https://github.com/user-attachments/assets/dfe8b4fa-4856-4c4d-ab22-3ebe5147fcfa" />
+   <img height="75" alt="image" src="https://github.com/user-attachments/assets/dfe8b4fa-4856-4c4d-ab22-3ebe5147fcfa" />
 
 </a>
 
